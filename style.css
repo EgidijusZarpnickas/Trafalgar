@@ -34,7 +34,7 @@ header {
     width: 100%;
     height: 719px;
     top: 56px;
-    right: 163px;
+    left: -50px;
     display: flex;
     position: absolute;
     z-index: 9;
